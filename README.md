@@ -1,11 +1,10 @@
-
+<div style="background-color: #F8E7CB; color: white; padding: 20px;">
+  
 <p align="center" width="500" height="500">
   <img  src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="MasterHead" />
 </p>
 <h1 align="center">Hi 👋, I'm Mehul Singh</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-
-
 
 
 
@@ -32,3 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulsingh1010&show_icons=true&locale=en" alt="mehulsingh1010" /></p>
 
+</div>
