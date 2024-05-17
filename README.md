@@ -1,9 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
+<p align="center" width="500" height="500">
+  <img  src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="MasterHead" />
+</p>
 <h1 align="center">Hi 👋, I'm Mehul Singh</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif" alt="mehulsingh1010" /> </p>
 
 
 
@@ -31,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulsingh1010&show_icons=true&locale=en" alt="mehulsingh1010" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulsingh1010&" alt="mehulsingh1010" /></p>
