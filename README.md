@@ -12,10 +12,10 @@
 
 ### 💡 **About Me**
 
-- 🔭 Currently working on [**StoreDoc**](https://storedoc.vercel.app/)
-- 🌱 Expanding my skills in **Frameworks** and **Advanced Development Practices**
-- 💬 Feel free to ask me about **MERN Stack**, **AI/ML**, or **DSA**
-- 📫 Reach me at **mehulsingh076@gmail.com**
+  🔭 Currently working on [**StoreDoc**](https://storedoc.vercel.app/)
+  🌱 Expanding my skills in **Frameworks** and **Advanced Development Practices**
+  💬 Feel free to ask me about **MERN Stack**, **AI/ML**, or **DSA**
+  📫 Reach me at **mehulsingh076@gmail.com**
 
 ---
 
