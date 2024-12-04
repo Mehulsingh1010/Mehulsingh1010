@@ -57,7 +57,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 
 
 
-## 🤖 Project Spotlight: StoreDoc
+## 🤖 Project Spotlight:  StoreDoc
 
 🌟 **StoreDoc** is my current passion project - a comprehensive document management system designed to streamline document storage and retrieval.
 
