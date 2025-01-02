@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Mehul Singh**
+# 👋 Hi, I'm **Mehul Singh** 
 
 <div align="center">
   <img src="https://github.com/mehulsingh1010/mehulsingh1010/blob/main/coding-freak.gif?raw=true" alt="MasterHead" width="100%" style="border-radius: 15px;" />
