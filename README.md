@@ -17,7 +17,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 
 ### 💡 Quick Highlights
 
-- 🔭 Currently building [**StoreDoc**](https://storedoc.vercel.app/)
+- 🔭 Currently building [**SerenityAI**](https://serenity-ai-seven.vercel.app/)
 - 🌱 Deep diving into Advanced Frameworks and AI/ML
 - 💬 Ask me about MERN Stack, AI/ML, or DSA
 - 📫 **mehulsingh076@gmail.com**
@@ -59,13 +59,13 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 
 ## 🤖 Project Spotlight:  StoreDoc
 
-🌟 **StoreDoc** is my current passion project - a comprehensive document management system designed to streamline document storage and retrieval.
+🌟 **SerenityAI** is my current passion project - a journal based mental health solution.
 
 ### Key Features
-- 📁 Secure Document Storage
-- 🔍 Advanced Search Capabilities
-- 🚀 Scalable Cloud Architecture
-- 🔐 User Authentication & Access Control
+- 📁 Daily journal entry
+- 🔍 Advanced analytics based on emotional feedback from genAI
+- 🚀 Weekly/monthly tracker, details.
+- 🔐 Suggestions based on entries.
 
 ## 📬 Visitor Count
 
