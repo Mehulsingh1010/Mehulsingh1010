@@ -17,7 +17,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 
 ### 💡 Quick Highlights
 
-- 🔭 Currently building [**SerenityAI**](https://serenity-ai-seven.vercel.app/)
+- 🔭 Currently building [**SerenityAI**](https://serenity-ai-weld.vercel.app/)
 - 🌱 Deep diving into Advanced Frameworks and AI/ML
 - 💬 Ask me about MERN Stack, AI/ML, or DSA
 - 📫 **mehulsingh076@gmail.com**
