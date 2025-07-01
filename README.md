@@ -26,7 +26,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,sass,mysql,python,figma" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,sass,mysql,postgre,figma" alt="Tech Skills" />
 </div>
 
 ## 🌐 Let's Connect!
