@@ -26,7 +26,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,sass,mysql,python,git,docker,tensorflow,figma" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,sass,mysql,python,figma" alt="Tech Skills" />
 </div>
 
 ## 🌐 Let's Connect!
@@ -57,7 +57,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 
 
 
-## 🤖 Project Spotlight:  StoreDoc
+## 🤖 Project Spotlight: SerenityAI
 
 🌟 **SerenityAI** is my current passion project - a journal based mental health solution.
 
