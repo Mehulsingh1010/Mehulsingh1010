@@ -18,7 +18,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 ### 💡 Quick Highlights
 
 - 🔭 Currently building [**SerenityAI**](https://serenity-ai-weld.vercel.app/)
-- 🌱 Deep diving into Advanced Frameworks and AI/ML
+- 🌱 Deep diving into Advanced Frameworks 
 - 💬 Ask me about MERN Stack and Data Structures 
 - 📫 **mehulsingh076@gmail.com**
 - 🎲 Fun fact: I turn coffee into code! ☕🖥️
@@ -26,7 +26,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,sass,mysql,postgre,figma" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,mongodb,express,tailwind,sass,mysql,postgresql,appwrite,figma" alt="Tech Skills" />
 </div>
 
 ## 🌐 Let's Connect!
