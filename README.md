@@ -19,7 +19,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 
 - 🔭 Currently building [**SerenityAI**](https://serenity-ai-weld.vercel.app/)
 - 🌱 Deep diving into Advanced Frameworks and AI/ML
-- 💬 Ask me about MERN Stack, AI/ML, or DSA
+- 💬 Ask me about MERN Stack and Data Structures 
 - 📫 **mehulsingh076@gmail.com**
 - 🎲 Fun fact: I turn coffee into code! ☕🖥️
 
@@ -51,8 +51,7 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehulsingh1010&theme=radical" alt="GitHub Profile Summary" width="100%" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mehulsingh1010&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulsingh1010&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  
 </div>
 
 
