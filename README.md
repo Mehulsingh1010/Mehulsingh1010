@@ -63,11 +63,12 @@ I'm a passionate Full-Stack Developer from India, specializing in crafting user-
 - 🚀 Weekly/monthly tracker, details.
 - 🔐 Suggestions based on entries.
 
-## 📬 Visitor Count
+## 📬 Visitor Counter
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mehulsingh1010/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mehulsingh1010" alt="Visitor Badge" />
 </div>
+
 
 ---
 
