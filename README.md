@@ -86,7 +86,7 @@ const mehul = {
 - 💡 Personalized suggestions  
 - 🔒 Privacy-first architecture  
 
-**🛠️ Tech Stack:** React, Node.js, AI/ML APIs, MongoDB  
+**🛠️ Tech Stack:** Next.js, Node.js, Gemini, PostgreSQL  
 
 <div align="center">
   <a href="https://serenity-ai-weld.vercel.app">
