@@ -17,9 +17,19 @@
 
 ## 🎯 **About Me**
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+
+**🔭 Currently Working On:** [SerenityAI](https://serenity-ai-weld.vercel.app) - AI-powered mental health platform
+
+**🌱 Learning:** Advanced frameworks & cloud technologies  
+
+**💡 Expertise:** MERN Stack, Database Design, System Architecture
+
+**📧 Contact:** mehulsingh076@gmail.com
+
+**📍 Location:** India 🇮🇳
+
+</div>
 
 ```javascript
 const mehul = {
@@ -32,21 +42,6 @@ const mehul = {
 };
 ```
 
-</td>
-<td width="50%">
-
-🔭 **Currently Working On:** [SerenityAI](https://serenity-ai-weld.vercel.app) - AI-powered mental health platform
-
-🌱 **Learning:** Advanced frameworks & cloud technologies  
-
-💡 **Expertise:** MERN Stack, Database Design, System Architecture
-
-📧 **Contact:** mehulsingh076@gmail.com
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ **Technology Stack**
@@ -57,25 +52,17 @@ const mehul = {
 
 ---
 
----
-
 ## 🌟 **Featured Projects**
 
-<div align="center">
-
 ### 🧠 **SerenityAI** - *AI-Powered Mental Health Platform*
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status"/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status"/>
 </div>
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github.com/user-attachments/assets/5ac69a91-77e1-4afb-a0f2-f6524150d108" alt="SerenityAI Preview" style="border-radius: 10px; border: 2px solid #6366f1;">
-
-</td>
-<td width="50%">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5ac69a91-77e1-4afb-a0f2-f6524150d108" alt="SerenityAI Preview" width="600" style="border-radius: 10px; border: 2px solid #6366f1; max-width: 100%;">
+</div>
 
 **🎯 Vision:** Revolutionizing mental health support through AI-driven insights and personalized care.
 
@@ -97,85 +84,74 @@ const mehul = {
   </a>
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🔥 **Other Notable Projects**
 
+#### 📦 **Stocker**
+
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-
   <img src="https://github.com/user-attachments/assets/c9f18b8c-3ad9-4635-87ba-3dba8143959b" 
        alt="Stocker Preview" 
-       style="border-radius: 10px; border: 2px solid #4f46e5; width: 100%;">
-  <br>
-  <strong>📦 Stocker</strong>
+       width="500"
+       style="border-radius: 10px; border: 2px solid #4f46e5; max-width: 100%;">
+</div>
 
+Advanced inventory management with OTP authentication and real-time analytics and an attractive UI throughout.  
 
-Advanced inventory management with OTP authentication and real-time analytics and an atractive UI throughout.  
-
-*Next.js • Node.js • MongoDB*  
+**Tech Stack:** Next.js • Node.js • MongoDB  
 
 <div align="center">
   <a href="https://dashboard-app-two-sigma.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4f46e5?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4f46e5?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://github.com/mehulsingh1010/stocker">
-    <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-374151?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-374151?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-</td>
-<td align="center" width="33%">
+#### 🕉️ **Nav Shrishti**
 
-<img src="https://github.com/user-attachments/assets/d7a32dfb-da9c-41ee-b0a2-d4e5e7b11529" alt="Nav Shrishti Preview" style="border-radius: 10px; border: 2px solid #10b981; width: 100%;">
-
-**🕉️ Nav Shrishti**  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7a32dfb-da9c-41ee-b0a2-d4e5e7b11529" 
+       alt="Nav Shrishti Preview" 
+       width="500"
+       style="border-radius: 10px; border: 2px solid #10b981; max-width: 100%;">
+</div>
 
 Cultural website including e-commerce store, blogging platform, and referral-based commission system.  
 
-*Next.js • Node.js • DrizzleORM • PostgreSQL*  
+**Tech Stack:** Next.js • Node.js • DrizzleORM • PostgreSQL  
 
 <div align="center">
   <a href="https://nav-shristi.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-10b981?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-10b981?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://github.com/mehulsingh1010/nav-shrishti">
-    <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-047857?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-047857?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-</td>
-<td align="center" width="33%">
+#### 🌍 **AirGlobe AI**
 
-<img src="https://github.com/user-attachments/assets/8daa7f59-bbfc-4d74-b20d-6371c8e34a38" alt="AirGlobe AI Preview" style="border-radius: 10px; border: 2px dashed #f59e0b; width: 100%;">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8daa7f59-bbfc-4d74-b20d-6371c8e34a38" 
+       alt="AirGlobe AI Preview" 
+       width="500"
+       style="border-radius: 10px; border: 2px dashed #f59e0b; max-width: 100%;">
+</div>
 
-**🌍 AirGlobe AI**  
+PWA for real-time weather updates with an interesting map UI and hourly updates on subscription.
 
-PWA for real-time weather updates with an intresting map UI and hourly updates on subsciption.
-
-*Next.js • Node.js • Leaflet.js*  
+**Tech Stack:** Next.js • Node.js • Leaflet.js  
 
 <div align="center">
   <a href="https://air-globe.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-f59e0b?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-f59e0b?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://github.com/mehulsingh1010/airglobe-ai">
-    <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-b45309?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-b45309?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -183,15 +159,22 @@ PWA for real-time weather updates with an intresting map UI and hourly updates o
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehulsingh1010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulsingh1010&layout=compact&theme=tokyonight&border_color=6366f1"/>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=mehulsingh1010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=mehulsingh1010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulsingh1010&layout=compact&theme=tokyonight&border_color=6366f1&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulsingh1010&layout=compact&theme=tokyonight&border_color=6366f1" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulsingh1010&theme=tokyonight&border=6366f1" alt="GitHub Streak"/>
 </div>
-
-
 
 ---
 
@@ -199,20 +182,12 @@ PWA for real-time weather updates with an intresting map UI and hourly updates o
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mehul-singh-73154b251/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/mehulsingh076/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/mehulsi9mhb/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-<a href="mailto:mehulsingh076@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-singh-73154b251/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mehulsingh076/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mehulsi9mhb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehulsingh076@gmail.com)
 
-<br><br>
+<br>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mehulsingh1010&format=true&lcolor=6366f1&rcolor=4f46e5&style=for-the-badge" alt="Visitor Badge"/>
 
