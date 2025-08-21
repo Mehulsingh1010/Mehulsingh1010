@@ -79,7 +79,7 @@ const mehul = {
   <a href="https://serenity-ai-weld.vercel.app">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-6366f1?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://github.com/mehulsingh1010/serenity-ai">
+  <a href="https://github.com/Mehulsingh1010/Serenity-AI">
     <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -105,7 +105,7 @@ Advanced inventory management with OTP authentication and real-time analytics an
   <a href="https://dashboard-app-two-sigma.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4f46e5?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://github.com/mehulsingh1010/stocker">
+  <a href="https://github.com/Mehulsingh1010/stocker">
     <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-374151?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -127,7 +127,7 @@ Cultural website including e-commerce store, blogging platform, and referral-bas
   <a href="https://nav-shristi.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-10b981?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://github.com/mehulsingh1010/nav-shrishti">
+  <a href="https://github.com/Mehulsingh1010/Nav-Shrishti">
     <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-047857?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -149,7 +149,7 @@ PWA for real-time weather updates with an interesting map UI and hourly updates 
   <a href="https://air-globe.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-f59e0b?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://github.com/mehulsingh1010/airglobe-ai">
+  <a href="https://github.com/Mehulsingh1010/AirGlobe">
     <img src="https://img.shields.io/badge/📂%20GitHub%20Repo-b45309?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
