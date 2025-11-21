@@ -1,46 +1,44 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mehul%20Singh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header"/>
-</div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e1ad785c-3dae-44e3-b245-1cc50a4ef1f2" alt="Mehul Singh" width="150" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 10px 30px rgba(99, 102, 241, 0.3);">
-  
-  <h1>👨‍💻 Full-Stack Developer | 🌟 Digital Innovator</h1>
-  <h3>🚀 Transforming Ideas into Scalable Digital Solutions</h3>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Problem+Solver;Clean+Code+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-  </p>
-</div>
-
----
-
-## 🎯 **About Me**
-
-<div align="center">
-
-**🔭 Currently Working On:** [SerenityAI](https://serenity-ai-weld.vercel.app) - AI-powered mental health platform
-
-**🌱 Learning:** Advanced frameworks & cloud technologies  
-
-**💡 Expertise:** MERN Stack, Database Design, System Architecture
-
-**📧 Contact:** mehulsingh076@gmail.com
-
-**📍 Location:** India 🇮🇳
-
-</div>
-
-```javascript
-const mehul = {
-    location: "India 🇮🇳",
-    role: "Full-Stack Developer",
-    languages: ["JavaScript", "Python", "SQL"],
-    currentFocus: "Building SerenityAI",
-    passion: "Creating user-centric solutions",
-    motto: "Code with purpose, build with passion"
-};
-```
+<table>
+  <tr>
+    <!-- Left side: About section -->
+    <td width="60%" valign="top">
+      <div align="center">
+        <h1>Hi 👋, I'm Mehul Singh</h1>
+        <hr width="80%">
+        <h3>Full-Stack Developer | Digital Innovator</h3>
+      </div>
+      <ul>
+        <li>👨‍💻 BTech Computer Science Student</li>
+        <li>🔭 Currently Working On: <a href="https://serenity-ai-weld.vercel.app">SerenityAI</a> - AI-powered mental health platform</li>
+        <li>🌱 Learning: Advanced frameworks & cloud technologies</li>
+        <li>💡 Expertise: MERN Stack, Database Design, System Architecture</li>
+        <li>📍 Location: India 🇮🇳</li>
+      </ul>
+      <div align="center">
+        <b>Connect with me:</b><br>
+        <a href="mailto:mehulsingh076@gmail.com">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="mail" width="32"/>
+        </a>
+        <a href="https://linkedin.com/in/mehul-singh-73154b251/">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32"/>
+        </a>
+        <a href="https://leetcode.com/mehulsingh076/">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="32"/>
+        </a>
+        <a href="https://auth.geeksforgeeks.org/user/mehulsi9mhb/">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="32"/>
+        </a>
+      </div>
+    </td>
+    <!-- Right side: Profile Image -->
+    <td width="40%" valign="top" align="center">
+      <div style="border-radius:16px;background:#18191c;padding:20px;max-width:360px;">
+        <img src="https://github.com/user-attachments/assets/e1ad785c-3dae-44e3-b245-1cc50a4ef1f2" alt="Mehul Singh" style="border-radius: 50%; border: 4px solid #6366f1; max-width:280px;"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
